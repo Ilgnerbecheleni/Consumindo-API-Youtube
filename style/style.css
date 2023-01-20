@@ -1,0 +1,23 @@
+body{
+
+    background: #eee;
+}
+
+
+.navtitle{
+    background:  #c4302b;
+   
+}
+
+.title{
+    color:white;
+}
+
+.sectionvideos{
+    background-color: #AAA;
+    height: auto;
+}
+
+.hidden{
+    display: none;
+}
